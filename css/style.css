@@ -1,0 +1,27 @@
+.top-container{
+  background-color: #BDF2D5;
+  height : 200px;
+  width: 200px;
+  border: solid;
+  border-width: 10px;
+  padding: 20px;
+}
+.middle-container
+{
+  background-color: powderblue;
+  height : 200px;
+  width: 200px;
+  border: solid;
+  border-width: 20px;
+  left: 50%;
+  margin-left: 260px;
+}
+.bottom-container{
+  background-color: pink;
+  height : 200px;
+  width: 200px;
+  border: solid;
+  border-width: 10px;
+  right: 0px;
+  margin-left: 500px;
+}
